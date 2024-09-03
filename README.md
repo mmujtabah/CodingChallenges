@@ -37,6 +37,7 @@ Each solution file should include the code and a brief explanation of how it wor
 
 ## Directory
 
+```
 CodingChallenges/
 ├── challenges/
 │   └── fizzbuzz.md
@@ -45,7 +46,7 @@ CodingChallenges/
     ├── fizzbuzz.js
     ├── FizzBuzz.java
     └── fizzbuzz.cpp
-
+```
 ## Code of Conduct
 
 We are committed to creating a welcoming and inclusive environment for all contributors. Please adhere to the following guidelines:
