@@ -1,11 +1,12 @@
-# CodingChallenges
+# Coding Challenges
 
 Welcome to the `CodingChallenges` repository!
 
-This repository is designed to help beginners practice coding by solving simple challenges. You can contribute by adding new challenges, solving existing ones, or improving documentation.
-
 ## Getting Started
 
-- **Clone the Repository**:
-  ```bash
-  git clone https://github.com/yourusername/CodingChallenges.git
+- **Challenges**: Find challenges in the `challenges` directory.
+- **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute new challenges or solutions.
+
+## Challenges
+
+Each file in the `challenges` directory contains a coding challenge with a problem statement and example outputs.
