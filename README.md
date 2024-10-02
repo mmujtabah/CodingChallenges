@@ -32,7 +32,7 @@ Feel free to submit solutions in any programming language. Here are some example
 - JavaScript: `solutions/fizzbuzz.js`
 - Java: `solutions/FizzBuzz.java`
 - C++: `solutions/fizzbuzz.cpp`
-- 
+
 Each solution file should include the code and a brief explanation of how it works.
 
 ## Directory
