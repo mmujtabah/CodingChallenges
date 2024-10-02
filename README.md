@@ -62,12 +62,6 @@ For detailed guidelines, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-We would like to thank the following for their contributions and support:
-
-- **[Contributor Name]**: For their valuable feedback and contributions.
-- **[Open Source Library]**: For providing tools and resources that made this project possible.
 
 If you have suggestions for additional acknowledgements, please let us know!
 
