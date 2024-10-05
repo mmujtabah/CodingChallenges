@@ -3,7 +3,12 @@
 Make a program to display an animation of "Hello World" Text in the console.
 
 # Example Output
-<video src="exampleOutput.mp4" controls autoplay>
+
+
+https://github.com/user-attachments/assets/13763037-0c0e-4e52-9101-3fec3342b743
+
+
+
 
 # Hints: 
 Use `os` module for clearing the screen using `os.system("clear")`.
