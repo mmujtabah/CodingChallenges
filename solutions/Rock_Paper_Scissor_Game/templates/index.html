@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock, Paper, Scissors</title>
+    <style>
+        body {
+            background-color: #282c34;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .button {
+            border: none;
+            border-radius: 5px;
+            background-color: transparent;
+            cursor: pointer;
+        }
+        img {
+            width: 100px; /* Adjust the size as needed */
+            height: 100px; /* Adjust the size as needed */
+            margin: 10px;
+            transition: transform 0.2s; /* Animation for hover effect */
+        }
+        img:hover {
+            transform: scale(1.5); /* Scale up on hover */
+        }
+        h2 {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Rock, Paper, Scissors</h1>
+    
+    <h2>Computer chose: {{ computer_choice }}</h2>
+    <div>
+        {% if computer_choice %}
+            <img src="{{ url_for('static', filename=computer_choice.lower() + '.png') }}" alt="{{ computer_choice }}">
+        {% endif %}
+    </div>
+
+    <h2>Select your choice:</h2>
+    <form method="POST">
+        <button class="button" name="choice" value="Rock">
+            <img src="{{ url_for('static', filename='rock.png') }}" alt="Rock">
+        </button>
+        <button class="button" name="choice" value="Paper">
+            <img src="{{ url_for('static', filename='paper.png') }}" alt="Paper">
+        </button>
+        <button class="button" name="choice" value="Scissors">
+            <img src="{{ url_for('static', filename='scissors.png') }}" alt="Scissors">
+        </button>
+    </form>
+
+    <h2>{{ result }}</h2>
+</body>
+</html>
