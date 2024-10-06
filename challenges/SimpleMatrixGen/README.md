@@ -12,3 +12,4 @@ And then it should prompt the user to put the values to every element of matrix.
 
 # Example Output
 
+![Screenshot from 2024-10-06 07-23-07](https://github.com/user-attachments/assets/d83f6dc8-c668-4587-9933-25178ffa0180)
