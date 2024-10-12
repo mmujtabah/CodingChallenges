@@ -1,5 +1,3 @@
-//code solution by Satyam Lal
-
 // Loop from 1 to 100
 for (let i = 1; i <= 100; i++) {
     // Check if the number is divisible by both 3 and 5
