@@ -12,6 +12,16 @@ Find coding challenges in the `challenges` directory. Each challenge includes a 
 
 ## How to Contribute
 
+You can contribute by submitting your solutions to coding challenges. Submissions can range from:
+- A single file or script, solving a particular challenge.
+- A full project, including web apps built with frameworks like Django or Flask.
+### Submission Guidelines for Projects
+For project submissions, please create a directory with a name following this pattern:
+`project_<your_project_name>`
+- Add a README.md inside your project directory to explain the project, how it works, and how it can be used or tested.
+
+### General Contribution Steps
+
 1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
 2. **Clone Your Fork**: Clone your forked repository to your local machine.
    ```git clone https://github.com/YOUR_USERNAME/CodingChallenges.git```
