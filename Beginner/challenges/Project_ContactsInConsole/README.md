@@ -1,4 +1,4 @@
-# Challenge(Project) Details : ContactsInConnsole
+# Challenge(Project) Details : ContactsInConsole
 
 Create a project that is an console based application.
 It has ability to:
@@ -24,3 +24,6 @@ It is a basic project.
   `["Ali Zain","alizaincodes","alizain.dev@proton.me","+92 3084319725","New York"]`
   Which you can use in turn:
   `["Name","Username","Email","Phone Number","Address"]`
+- Make such a splitter that it works even the words have those letters splitter have.
+  Such that if the user has `<SPLITTER>` in his name or anything. It will result in broken reading of contact.
+`["Ali Zain","alizaincodes","alizain.dev@proton.me","+92 3084319725","New York"]`
