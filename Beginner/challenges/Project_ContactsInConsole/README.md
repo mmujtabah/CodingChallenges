@@ -14,7 +14,7 @@ It is a basic project.
 - You can only use files to manage all the contacts.
 
 # Example Output 
-
+Run `Beginner/solutions/Project_ContactsInConsole/main.py` for output.
 # Hints
 - Make a directory named `contacts` in the project main folder.
 - Then make contacts with a file having a unique extension such as `.consolecontact`. So that other files do not conflict with it.
