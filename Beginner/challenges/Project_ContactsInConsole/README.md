@@ -26,4 +26,3 @@ It is a basic project.
   `["Name","Username","Email","Phone Number","Address"]`
 - Make such a splitter that it works even the words have those letters splitter have.
   Such that if the user has `<SPLITTER>` in his name or anything. It will result in broken reading of contact.
-`["Ali Zain","alizaincodes","alizain.dev@proton.me","+92 3084319725","New York"]`
