@@ -11,7 +11,9 @@ It is a basic project.
 
 ## RESTRICTIONS:
 - You cannot use any kind of database.
-- You can only use files to manage all the contacts.
+- You have only two options:
+  - Use JSON to manage the Contacts
+  - Use Files to manage the Contacts
 
 # Example Output 
 Run `Beginner/solutions/Project_ContactsInConsole/main.py` for output.
