@@ -1,0 +1,25 @@
+{
+    "contacts": [
+        {
+            "name": "Ali Zain",
+            "username": "alizaincodes",
+            "email": "alizain.dev@proton.me",
+            "phoneNumber": "+92 3219483617",
+            "address": "Multan, Punjab, Pakistan"
+        },
+        {
+            "name": "Ali Hassan",
+            "username": "alihassancods",
+            "email": "alihassan.someone@proton.me",
+            "phoneNumber": "+92 1644267248",
+            "address": "Pakistan"
+        },
+        {
+            "name": "amongus",
+            "username": "innersloth",
+            "email": "support@innersloth.com",
+            "phoneNumber": "idk",
+            "address": "InnerSloth Inc."
+        }
+    ]
+}
