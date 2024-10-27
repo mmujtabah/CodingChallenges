@@ -11,10 +11,18 @@ It is a basic project.
 
 ## RESTRICTIONS:
 - You cannot use any kind of database.
-- You can only use files to manage all the contacts.
+- You have only two options:
+  - Use JSON to manage the Contacts
+  - Use Files to manage the Contacts
 
 # Example Output 
-Run `Beginner/solutions/Project_ContactsInConsole/main.py` for output.
+
+
+https://github.com/user-attachments/assets/cbbbe44f-5f39-4427-a999-79c1e78c5096
+
+
+
+
 # Hints
 - Make a directory named `contacts` in the project main folder.
 - Then make contacts with a file having a unique extension such as `.consolecontact`. So that other files do not conflict with it.
